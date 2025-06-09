@@ -1,0 +1,675 @@
+{
+    "women": {
+        "accessories": [
+            "belts",
+            "face masks",
+            "glasses",
+            "gloves & mittens",
+            "hair accessories",
+            "hats",
+            "hosiery & socks",
+            "key & card holders",
+            "laptop cases",
+            "phone cases",
+            "scarves & wraps",
+            "sunglasses",
+            "tablet cases",
+            "umbrellas",
+            "watches",
+            "none"
+        ],
+        "bags": [
+            "baby bags",
+            "backpacks",
+            "clutches & wristlets",
+            "cosmetic bags & cases",
+            "crossbody bags",
+            "hobos",
+            "laptop bags",
+            "mini bags",
+            "satchels",
+            "shoulder bags",
+            "totes",
+            "travel bags",
+            "wallets",
+            "none"
+        ],
+        "dresses": [
+            "asymmetrical",
+            "backless",
+            "high low",
+            "long sleeve",
+            "maxi",
+            "midi",
+            "mini",
+            "one shoulder",
+            "prom",
+            "strapless",
+            "wedding",
+            "none"
+        ],
+        "intimates & sleepwear": [
+            "bandeaus",
+            "bras",
+            "chemises & slips",
+            "pajamas",
+            "panties",
+            "robes",
+            "shapewear",
+            "sports bras",
+            "none"
+        ],
+        "jackets & coats": [
+            "blazers & suit jackets",
+            "bomber jackets",
+            "capes",
+            "jean jackets",
+            "leather jackets",
+            "pea coats",
+            "puffers",
+            "ski & snow jackets",
+            "teddy jackets",
+            "trench coats",
+            "utility jackets",
+            "varsity jackets",
+            "vests",
+            "none"
+        ],
+        "jeans": [
+            "ankle & cropped",
+            "boot cut",
+            "boyfriend",
+            "flare & wide leg",
+            "high rise",
+            "jeggings",
+            "overalls",
+            "skinny",
+            "straight leg",
+            "none"
+        ],
+        "jewelry": [
+            "bracelets",
+            "brooches",
+            "earrings",
+            "necklaces",
+            "rings",
+            "none"
+        ],
+        "makeup": [
+            "blush",
+            "bronzer & contour",
+            "brows",
+            "brushes & tools",
+            "concealer",
+            "eye primer",
+            "eyeliner",
+            "eyeshadow",
+            "foundation",
+            "highlighter",
+            "lashes",
+            "lip balm & gloss",
+            "lip liner",
+            "lipstick",
+            "mascara",
+            "nail tools",
+            "press-on nails",
+            "primer",
+            "setting powder & spray",
+            "none"
+        ],
+        "pants & jumpsuits": [
+            "ankle & cropped",
+            "boot cut & flare",
+            "capris",
+            "jumpsuits & rompers",
+            "leggings",
+            "pantsuits",
+            "skinny",
+            "straight leg",
+            "track pants & joggers",
+            "trousers",
+            "wide leg",
+            "none"
+        ],
+        "shoes": [
+            "ankle boots & booties",
+            "athletic shoes",
+            "combat & moto boots",
+            "espadrilles",
+            "flats & loafers",
+            "heeled boots",
+            "heels",
+            "lace up boots",
+            "moccasins",
+            "mules & clogs",
+            "over the knee boots",
+            "platforms",
+            "sandals",
+            "slippers",
+            "sneakers",
+            "wedges",
+            "work boots",
+            "winter & rain boots",
+            "none"
+        ],
+        "shorts": [
+            "athletic shorts",
+            "bermudas",
+            "bike shorts",
+            "cargos",
+            "high waist",
+            "jean shorts",
+            "skorts",
+            "none"
+        ],
+        "skirts": [
+            "a-line or full",
+            "asymmetrical",
+            "circle & skater",
+            "high low",
+            "maxi",
+            "midi",
+            "mini",
+            "pencil",
+            "skirt sets",
+            "none"
+        ],
+        "sweaters": [
+            "cardigans",
+            "cowl & turtlenecks",
+            "crew & scoop necks",
+            "off-the-shoulder sweaters",
+            "shrugs & ponchos",
+            "v-necks",
+            "none"
+        ],
+        "swim": [
+            "bikinis",
+            "coverups",
+            "one pieces",
+            "sarongs",
+            "none"
+        ],
+        "tops": [
+            "blouses",
+            "bodysuits",
+            "button down shirts",
+            "camisoles",
+            "crop tops",
+            "jerseys",
+            "muscle tees",
+            "sweatshirts & hoodies",
+            "tank tops",
+            "tees - long sleeve",
+            "tees - short sleeve",
+            "tunics",
+            "none"
+        ],
+        "skincare": [
+            "acne & blemish",
+            "cleanser & exfoliant",
+            "eye cream",
+            "makeup remover",
+            "mask",
+            "moisturizer",
+            "peel",
+            "serum & face oil",
+            "suncare",
+            "toner",
+            "tools",
+            "none"
+        ],
+        "hair": [
+            "color",
+            "conditioner",
+            "hairspray",
+            "heat protectant",
+            "shampoo",
+            "styling",
+            "tools",
+            "treatment & mask",
+            "wigs & extensions",
+            "none"
+        ],
+        "bath & body": [
+            "bath soak & bubbles",
+            "body wash",
+            "exfoliant & scrub",
+            "hair removal",
+            "hand & foot care",
+            "hand soap",
+            "moisturizer & body oil",
+            "suncare & tanning",
+            "tools",
+            "none"
+        ],
+        "other": [
+            "none"
+        ]
+    },
+    "men": {
+        "accessories": [
+            "belts",
+            "cuff links",
+            "face masks",
+            "glasses",
+            "gloves",
+            "hats",
+            "jewelry",
+            "key & card holders",
+            "money clips",
+            "phone cases",
+            "pocket squares",
+            "scarves",
+            "sunglasses",
+            "suspenders",
+            "ties",
+            "watches",
+            "none"
+        ],
+        "bags": [
+            "backpacks",
+            "belt bags",
+            "briefcases",
+            "duffel bags",
+            "laptop bags",
+            "luggage & travel bags",
+            "messenger bags",
+            "toiletry bags",
+            "wallets",
+            "none"
+        ],
+        "jackets & coats": [
+            "bomber & varsity",
+            "lightweight & shirt jackets",
+            "military & field",
+            "pea coats",
+            "performance jackets",
+            "puffers",
+            "raincoats",
+            "ski & snowboard",
+            "trench coats",
+            "vests",
+            "windbreakers",
+            "none"
+        ],
+        "jeans": [
+            "bootcut",
+            "relaxed",
+            "skinny",
+            "slim",
+            "slim straight",
+            "straight",
+            "none"
+        ],
+        "pants": [
+            "cargo",
+            "chinos & khakis",
+            "corduroy",
+            "dress",
+            "sweatpants & joggers",
+            "none"
+        ],
+        "shirts": [
+            "casual button down shirts",
+            "dress shirts",
+            "jerseys",
+            "polos",
+            "sweatshirts & hoodies",
+            "tank tops",
+            "tees - long sleeve",
+            "tees - short sleeve",
+            "none"
+        ],
+        "shoes": [
+            "athletic shoes",
+            "boat shoes",
+            "boots",
+            "chukka boots",
+            "work boots",
+            "cowboy & western boots",
+            "loafers & slip-ons",
+            "oxfords & derbys",
+            "rain & snow boots",
+            "sandals & flip-flops",
+            "sneakers",
+            "none"
+        ],
+        "shorts": [
+            "athletic",
+            "cargo",
+            "flat front",
+            "hybrids",
+            "jean shorts",
+            "none"
+        ],
+        "suits & blazers": [
+            "sport coats & blazers",
+            "suits",
+            "tuxedos",
+            "vests",
+            "none"
+        ],
+        "sweaters": [
+            "cardigan",
+            "crewneck",
+            "turtleneck",
+            "v-neck",
+            "zip up",
+            "none"
+        ],
+        "swim": [
+            "board shorts",
+            "hybrids",
+            "rash guards",
+            "swim trunks",
+            "none"
+        ],
+        "underwear & socks": [
+            "athletic socks",
+            "boxer briefs",
+            "boxers",
+            "briefs",
+            "casual socks",
+            "dress socks",
+            "undershirts",
+            "none"
+        ],
+        "grooming": [
+            "cleanser",
+            "grooming tools",
+            "hair care",
+            "moisturizer",
+            "shaving",
+            "suncare",
+            "treatments",
+            "none"
+        ],
+        "other": [
+            "none"
+        ]
+    },
+    "kids": {
+        "accessories": [
+            "bags",
+            "belts",
+            "bibs",
+            "diaper covers",
+            "face masks",
+            "hair accessories",
+            "hats",
+            "jewelry",
+            "mittens",
+            "socks & tights",
+            "sunglasses",
+            "suspenders",
+            "ties",
+            "underwear",
+            "watches",
+            "none"
+        ],
+        "bottoms": [
+            "casual",
+            "formal",
+            "jeans",
+            "jumpsuits & rompers",
+            "leggings",
+            "overalls",
+            "shorts",
+            "skirts",
+            "skorts",
+            "sweatpants & joggers",
+            "none"
+        ],
+        "dresses": [
+            "casual",
+            "formal",
+            "none"
+        ],
+        "jackets & coats": [
+            "blazers",
+            "capes",
+            "jean jackets",
+            "pea coats",
+            "puffers",
+            "raincoats",
+            "vests",
+            "none"
+        ],
+        "matching sets": [
+            "none"
+        ],
+        "one pieces": [
+            "bodysuits",
+            "footies",
+            "none"
+        ],
+        "pajamas": [
+            "nightgowns",
+            "pajama bottoms",
+            "pajama sets",
+            "pajama tops",
+            "robes",
+            "sleep sacks",
+            "none"
+        ],
+        "shirts & tops": [
+            "blouses",
+            "button down shirts",
+            "camisoles",
+            "jerseys",
+            "polos",
+            "sweaters",
+            "sweatshirts & hoodies",
+            "tank tops",
+            "tees - long sleeve",
+            "tees - short sleeve",
+            "none"
+        ],
+        "shoes": [
+            "baby & walker",
+            "boots",
+            "dress shoes",
+            "moccasins",
+            "rain & snow boots",
+            "sandals & flip flops",
+            "slippers",
+            "sneakers",
+            "water shoes",
+            "none"
+        ],
+        "swim": [
+            "bikinis",
+            "coverups",
+            "one piece",
+            "rashguards",
+            "swim trunks",
+            "none"
+        ],
+        "costumes": [
+            "dance",
+            "halloween",
+            "seasonal",
+            "superhero",
+            "theater",
+            "none"
+        ],
+        "bath, skin & hair": [
+            "bath & body",
+            "hair care",
+            "moisturizer",
+            "suncare",
+            "tools",
+            "none"
+        ],
+        "toys": [
+            "action figures & playsets",
+            "building sets & blocks",
+            "cars & vehicles",
+            "dolls & accessories",
+            "learning toys",
+            "puzzles & games",
+            "stuffed animals",
+            "trading cards",
+            "none"
+        ],
+        "other": [
+            "none"
+        ]
+    },
+    "home": {
+        "accents": [
+            "accent pillows",
+            "baskets & bins",
+            "candles & holders",
+            "coffee table books",
+            "curtains & drapes",
+            "decor",
+            "door mats",
+            "faux florals",
+            "furniture covers",
+            "lanterns",
+            "picture frames",
+            "vases",
+            "none"
+        ],
+        "art": [
+            "ceramics",
+            "drawing & illustrations",
+            "fiber arts",
+            "glass art",
+            "mixed media",
+            "painting",
+            "photography",
+            "posters",
+            "prints",
+            "sculpture",
+            "none"
+        ],
+        "bath": [
+            "bath accessories",
+            "bath storage",
+            "bath towels",
+            "beach towels",
+            "hand towels",
+            "mats",
+            "shower curtains",
+            "vanity mirrors",
+            "vanity trays",
+            "wash cloths",
+            "none"
+        ],
+        "bedding": [
+            "blankets & throws",
+            "comforters",
+            "duvet covers",
+            "mattress covers",
+            "pillows",
+            "quilts",
+            "sheets",
+            "none"
+        ],
+        "design": [
+            "birthday cards",
+            "business cards",
+            "planners",
+            "stamps",
+            "stickers",
+            "thank you cards",
+            "none"
+        ],
+        "dining": [
+            "bar accessories",
+            "dinnerware",
+            "drinkware",
+            "flatware",
+            "mugs",
+            "serveware",
+            "serving utensils",
+            "table linens",
+            "water bottles & thermoses",
+            "none"
+        ],
+        "games": [
+            "board games",
+            "card games",
+            "outdoor games",
+            "puzzles",
+            "none"
+        ],
+        "holiday": [
+            "garland",
+            "holiday blankets & throws",
+            "holiday decor",
+            "holiday pillows",
+            "ornaments",
+            "string lights",
+            "wreaths",
+            "none"
+        ],
+        "kitchen": [
+            "bbq & grilling tools",
+            "bakeware",
+            "coffee & tea accessories",
+            "cookbooks",
+            "cooking utensils",
+            "cookware",
+            "food storage",
+            "kitchen linens",
+            "kitchen tools",
+            "knives & cutlery",
+            "none"
+        ],
+        "office": [
+            "arts & crafts",
+            "binders & folders",
+            "calendars",
+            "labels & label makers",
+            "notebooks & journals",
+            "pencil cases",
+            "planners",
+            "shipping supplies",
+            "stationery",
+            "none"
+        ],
+        "party supplies": [
+            "cake candles",
+            "cake toppers",
+            "cards & invitations",
+            "decorations",
+            "disposable tableware",
+            "favors",
+            "gift wrap",
+            "hats",
+            "party lights",
+            "none"
+        ],
+        "storage & organization": [
+            "closet accessories",
+            "drawer liners",
+            "garment bags",
+            "jewelry organizers",
+            "makeup organizers",
+            "storage",
+            "none"
+        ],
+        "wall decor": [
+            "art & decals",
+            "clocks",
+            "display shelves",
+            "hooks",
+            "mirrors",
+            "tapestries",
+            "wallpaper",
+            "none"
+        ],
+        "other": [
+            "none"
+        ]
+    },
+
+    "work boots": [
+        "none"
+    ]
+
+}

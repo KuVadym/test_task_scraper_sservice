@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  parser_service:
+    build: ./parser_service
+    container_name: parser_service
+    ports:
+      - "5000:5000"
+    restart: always
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+
+
+  db_service:
+      build: ./intermediary_service
+      container_name: intermediary_service
+      restart: always
+      environment:
+        MYSQL_URI: sql+aiomysql://u988786009_test_python:5NtXB%40S%5B%26@srv1566.hstgr.io:3306/u988786009_test_python
+      ports:
+        - "3306:3306"
+      volumes:
+        - db_data:/var/lib/mysql

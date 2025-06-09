@@ -1,0 +1,29 @@
+{
+    "proxy_str": "http://dlu75iwfeh-mobile-country-US-state-5332921-city-5368361-hold-session-session-66b2063872c7a:0N5oOVQ20ad0bkKd@93.190.138.107:9999",
+    "proxy_dict": {
+      "host": "",
+      "username": "",
+      "password": ""
+    },
+    "cookies_path": {
+      "absolute_path": "",
+      "relative_path": "poshmark.com_12-08-2024.json"
+    },
+    "data": {
+      "listing_count": 1,
+      "max_price": 350,
+      "min_price": 50,
+      "filter_category": "hats",
+      "gender_category": "women",
+      "listing_addit_percent": 10,
+      "origin_addit_percent": 20,
+      "discount": false,
+      "availability": "N",
+      "new_condition": true,
+      "api_category": null,
+      "brand": null
+    },
+    "mode": "test_login",
+    "safety_factor": 1.3
+  }
+  

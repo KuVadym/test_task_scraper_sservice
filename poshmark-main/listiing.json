@@ -1,0 +1,25 @@
+{
+    "proxy_str": "", // просто прокси в виде строки
+    "proxy_dict": {  // прокси разобранный на словарь
+      "host": "",
+      "username": "",
+      "password": ""
+    },
+    "cookies_path": {
+      "absolute_path": "/", // абсолютный путь к куки для входа
+      "relative_path": ""  // относительный путь к куки для входа(относительно main_listing.py)
+    },
+    "data": {
+      "listing_count": 1, // количество листингов
+      "max_price": 1, // int|null максимальная цена 
+      "min_price": 1,  // int|null минимальная цена
+      "filter_category": "", // str|null категория(не подкатегория) для фильтрации смотреть "poshmark_category_scruct.json"
+      "gender_category": "", // str|null example: "women", "men", "kids"
+      "listing_addit_percent": 1, // процент наценки цены продажи
+      "origin_addit_percent": 1,  // процент наценки оригинальной цены товара
+      "availability": "N",        //тип публикации   N - Not for sale, S - For sale, D - Drop   
+      "new_condition": false     // новый или не новый
+    },
+    "mode": "", // режим запуска listing - листинг, test_login - тестовый заход в аккаунт
+  }
+  

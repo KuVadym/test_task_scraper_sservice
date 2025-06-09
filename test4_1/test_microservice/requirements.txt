@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+flask
+requests-html
+lxml_html_clean
+uvicorn
