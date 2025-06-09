@@ -1,0 +1,32 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+
+# Virtual environment directories
+venv/
+.venv
+env/
+*.egg-info/
+
+# IDE/editor folders
+.idea/
+.vscode/
+
+# Environment variables file
+.env
+
+# Pytest
+.cache/
+
+# Migrations (Alembic)
+migrations/
+*.bak
+
+# Other system-specific files
+.DS_Store
+Thumbs.db
+
+.ruff*
+.mypy*
+shared/
+examples/
